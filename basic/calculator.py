@@ -15,5 +15,5 @@ if choice in ('1', '2', '3', '4'):
                 a += a
                 print("The sum is: ", a)
             else:
-                c += a   
+                c += af   
             print("The sum is: ", c)    
