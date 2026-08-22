@@ -1,4 +1,5 @@
-a=int(input("Enter first number: "))
-b=int(input("Enter second number: "))
-c=a*b
-print("The product is: ", c)
+f
+x=[1,2,3,4,5]
+y=x
+y.append(6)
+print("List x: ", x)
